@@ -60,3 +60,5 @@ Credits to Udacity for the starter codes and the data providade for this project
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+Link Udacity Workspace: https://view6914b2f4-3001.udacity-student-workspaces.com/
